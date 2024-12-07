@@ -9,7 +9,7 @@
                 
                 <label for="fname" class="m-2 form-label">Data de nascimento:</label><br>
                 <input id="data_nascimento" name="data_nascimento" type="date" class="m-2 form-control">
-                <button type="submit" class="m-2 form-control btn btn-primary w-100">Sign in</button>
+                <button type="submit" class="m-2 form-control btn btn-primary w-100">Consultar</button>
                 
                 <!-- <input class="form-control" type="submit" value="Submit"> -->
             </div>
