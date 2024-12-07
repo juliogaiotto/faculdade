@@ -8,5 +8,5 @@
 </head>
 <body>
 <div class="container text-center align-items-center">
-<img class="m-2 mx-auto" src="assets/imgs/zodiac-symbol-miscellaneous.png" alt="Logo" width="180px">
+<img class="m-2 mx-auto" src="assets/imgs/zodiac-symbol-miscellaneous.png" alt="Logo" width="180px"><br>
     
